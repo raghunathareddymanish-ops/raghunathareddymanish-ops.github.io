@@ -1,0 +1,42 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Python (Pandas/NumPy)",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "color": "#4ECDC4",
+      "skills": [
+        "scikit-learn",
+        "TensorFlow"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#FFE66D",
+      "skills": [
+        "ETL/ELT",
+        "batch processing",
+        "incremental loads",
+        "dataset standardization",
+        "data modeling",
+        "data quality checks (schema, nulls, duplicates)",
+        "monitoring/alerts",
+        "documentation",
+        "feature engineering",
+        "evaluation (ROC/AUC, precision/recall/F1)"
+      ]
+    }
+  ]
+}

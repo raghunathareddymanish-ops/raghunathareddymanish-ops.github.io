@@ -1,0 +1,214 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "Fraud Detection System",
+      "description": "Built a fraud classification pipeline (Random Forest, Logistic Regression) with feature engineering and ROC-based evaluation.",
+      "longDescription": "Built a fraud classification pipeline (Random Forest, Logistic Regression) with feature engineering and ROC-based evaluation.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "Pandas/NumPy"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Recommender System",
+      "description": "Delivered content-based recommendations using TF-IDF + cosine similarity and validated quality with precision/recall/F1.",
+      "longDescription": "Delivered content-based recommendations using TF-IDF + cosine similarity and validated quality with precision/recall/F1.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TF-IDF",
+        "cosine similarity",
+        "Git"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Stock Price Prediction",
+      "description": "Developed an LSTM forecasting model for historical stock data with tuning and forward predictions in TensorFlow.",
+      "longDescription": "Developed an LSTM forecasting model for historical stock data with tuning and forward predictions in TensorFlow.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "LSTM"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "fraud-detection-using-machine-learning",
+      "description": "Portfolio project showcasing development capabilities",
+      "longDescription": "Portfolio project showcasing development capabilities",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/raghunathareddymanish-ops/fraud-detection-using-machine-learning",
+      "demo": "https://github.com/raghunathareddymanish-ops/fraud-detection-using-machine-learning",
+      "links": {
+        "github": "https://github.com/raghunathareddymanish-ops/fraud-detection-using-machine-learning",
+        "demo": "https://github.com/raghunathareddymanish-ops/fraud-detection-using-machine-learning",
+        "live": "https://github.com/raghunathareddymanish-ops/fraud-detection-using-machine-learning"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "movie_recommendation",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/raghunathareddymanish-ops/movie_recommendation",
+      "demo": "https://github.com/raghunathareddymanish-ops/movie_recommendation",
+      "links": {
+        "github": "https://github.com/raghunathareddymanish-ops/movie_recommendation",
+        "demo": "https://github.com/raghunathareddymanish-ops/movie_recommendation",
+        "live": "https://github.com/raghunathareddymanish-ops/movie_recommendation"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "full-stack-fastapi-postgresql",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Backend Development",
+      "technologies": [
+        "TypeScript",
+        "Python",
+        "CSS",
+        "Shell",
+        "Dockerfile",
+        "Mako",
+        "HTML",
+        "Jinja"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/raghunathareddymanish-ops/full-stack-fastapi-postgresql",
+      "demo": "https://github.com/raghunathareddymanish-ops/full-stack-fastapi-postgresql",
+      "links": {
+        "github": "https://github.com/raghunathareddymanish-ops/full-stack-fastapi-postgresql",
+        "demo": "https://github.com/raghunathareddymanish-ops/full-stack-fastapi-postgresql",
+        "live": "https://github.com/raghunathareddymanish-ops/full-stack-fastapi-postgresql"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "mern-ecommerce",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "SCSS",
+        "Dockerfile",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/raghunathareddymanish-ops/mern-ecommerce",
+      "demo": "https://github.com/raghunathareddymanish-ops/mern-ecommerce",
+      "links": {
+        "github": "https://github.com/raghunathareddymanish-ops/mern-ecommerce",
+        "demo": "https://github.com/raghunathareddymanish-ops/mern-ecommerce",
+        "live": "https://github.com/raghunathareddymanish-ops/mern-ecommerce"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "anomaly-detection",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/raghunathareddymanish-ops/anomaly-detection",
+      "demo": "https://github.com/raghunathareddymanish-ops/anomaly-detection",
+      "links": {
+        "github": "https://github.com/raghunathareddymanish-ops/anomaly-detection",
+        "demo": "https://github.com/raghunathareddymanish-ops/anomaly-detection",
+        "live": "https://github.com/raghunathareddymanish-ops/anomaly-detection"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

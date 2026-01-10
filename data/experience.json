@@ -1,0 +1,30 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "",
+      "company": "Huawei Technologies",
+      "period": "Oct 2020 Jan 2023",
+      "location": "",
+      "description": "Owned end-to-end pipeline delivery to transform multi-source operational data into analytics-ready tables for reporting and downstream analysis.\nPartnered with stakeholders to convert ambiguous questions into clear metrics and standardized dataset definitions.\nBuilt validation checks (schema conformity, nulls, duplicates, outliers) to improve data trust and reduce recurring data issues.\nOptimized SQL transformations and processing steps to improve throughput and reduce manual rework during refresh cycles.",
+      "responsibilities": [
+        "Owned end-to-end pipeline delivery to transform multi-source operational data into analytics-ready tables for reporting and downstream analysis",
+        "Partnered with stakeholders to convert ambiguous questions into clear metrics and standardized dataset definitions",
+        "Built validation checks (schema conformity, nulls, duplicates, outliers) to improve data trust and reduce recurring data issues",
+        "Optimized SQL transformations and processing steps to improve throughput and reduce manual rework during refresh cycles"
+      ]
+    },
+    {
+      "title": "",
+      "company": "Mobiikey",
+      "period": "Jun 2019 Sep 2019",
+      "location": "",
+      "description": "Supported ETL workflows to consolidate data from files/APIs into structured tables for reporting.\nCreated reusable Python scripts for cleaning, profiling, and standardizing datasets to improve consistency.",
+      "responsibilities": [
+        "Supported ETL workflows to consolidate data from files/APIs into structured tables for reporting",
+        "Created reusable Python scripts for cleaning, profiling, and standardizing datasets to improve consistency"
+      ]
+    }
+  ]
+}
