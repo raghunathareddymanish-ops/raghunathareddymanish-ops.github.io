@@ -98,6 +98,12 @@ async function loadHero() {
         const response = await fetch('data/hero.json');
         const data = await response.json();
 
+        // Set avatar image
+        const avatarContainer = document.getElementById('hero-avatar');
+        if (avatarContainer && data.avatarUrl) {
+            avatarContainer.innerHTML = `<img src="${data.avatarUrl}" alt="${data.name}" class="hero-avatar-img">`;
+        }
+
         // Set text content
         document.getElementById('hero-greeting').textContent = data.greeting;
         document.getElementById('hero-name').innerHTML = `${data.name.split(' ')[0]} <span>${data.name.split(' ').slice(1).join(' ')}</span>`;
